@@ -1,6 +1,24 @@
 <html>
-<title>practical 3</title>
-<h4>Image</h4>
-<img src="C:\Users\Admin\Desktop\tags.png">
-<a href="prelab.html>click here</a>
-</html>
+  <title>Practical 3</title>
+<body bgcolor="red">
+  <h1>Anand kumar </h1>
+  <h2>CS25001 </h2>
+<ol>
+      <li>Call now </li>
+      <li>About us </li>
+      <li>Contact us </li>
+</ol>
+<ul>
+      <li>Call now </li>
+      <li>About us </li>
+      <li>Contact us </li>
+</ul>
+<dl>
+  <dt><b>THE SECTION A</b>
+      <dd>
+        <dd>Smart </dd>
+        <dd>hardworking </dd>
+        <dd>Creatives </dd>
+        <dd>Thinkers </dd>
+<img src="C:\Users\Admin\Desktop\web.jpg">
+<a href="Pract
